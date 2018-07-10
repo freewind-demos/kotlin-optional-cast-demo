@@ -1,7 +1,6 @@
 package example
 
 fun main(args: Array<String>) {
-    println(hello("Kotlin"))
+    val str = 123 as? String
+    println(str)
 }
-
-fun hello(name: String): String = "Hello, $name!"

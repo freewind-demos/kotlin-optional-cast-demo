@@ -1,4 +1,4 @@
-Kotlin Hello World Demo
-=======================
+Kotlin Optional Cast Demo
+==========================
 
-Hello world from kotlin. Open it in IDE and run `Hello.kt`
+Use `as?` to cast to another type, if it fails, it will return null and won't throw exception.
